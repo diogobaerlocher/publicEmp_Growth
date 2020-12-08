@@ -1,6 +1,6 @@
 # Public Employment, Competition, and Economic Growth
 
-> **Current Version:** August 2020 
+> **Current Version:** [August 2020](/_versions/publicEmp_aug20.pdf)
 
 > **Status:** Under Review
 
