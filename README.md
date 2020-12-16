@@ -1,4 +1,4 @@
-# Public Employment, Competition, and Economic Growth
+# Public Employment and Economic Growth
 
 > **Current Version:** [August 2020](/publicEmp.pdf)
 
